@@ -18,6 +18,10 @@ https://chatgpt.com/backend-api/wham/usage
 
 ## 效果
 
+实际显示效果：
+
+![状态栏实际效果](assets/status-bar-preview.png)
+
 - 状态栏显示：`小熊图标 + 5h xx% | Wk xx%`
 - `5h`：5 小时窗口剩余百分比
 - `Wk`：weekly 窗口剩余百分比
