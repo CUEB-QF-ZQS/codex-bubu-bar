@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+
+# Local runtime state and private API snapshots.
+state/
+.state/
+
+# Built application bundle.
+*.app/
+
+# Local installer output.
+dist/
+build/
