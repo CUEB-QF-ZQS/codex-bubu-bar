@@ -1,4 +1,4 @@
-# Codex Usage Bar
+# Codex Bubu Bar
 
 一个 macOS 状态栏小工具，用来显示 Codex 剩余额度：
 
